@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="t5Gy5JO1c8dxhaW9dagT">
+    <mxGraphModel dx="934" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AXA8a64m7pf33DG3e36n-17" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.laptop;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="61" width="90" x="60" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-18" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.laptop;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="61" width="90" x="600" y="447" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-19" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="53" width="78" x="200" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-20" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="53" width="78" x="550" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-24" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-21" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.fileserver;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="62" width="43" x="250" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-22" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="50" width="101" x="170" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-23" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="50" width="101" x="570" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-26" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.wireless.wlan_controller;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="56.00000000000001" width="101" x="350" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-27" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-17" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.198;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.98;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="AXA8a64m7pf33DG3e36n-22" value="">
+          <mxGeometry relative="1" width="100" x="0.2119" as="geometry">
+            <Array as="points" />
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-28" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-21" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="AXA8a64m7pf33DG3e36n-22" value="">
+          <mxGeometry relative="1" width="100" x="0.1503" as="geometry">
+            <Array as="points" />
+            <mxPoint x="250" y="490" as="sourcePoint" />
+            <mxPoint x="332" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-29" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-18" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="AXA8a64m7pf33DG3e36n-23" value="">
+          <mxGeometry relative="1" width="100" x="0.3008" as="geometry">
+            <Array as="points" />
+            <mxPoint x="651" y="461" as="sourcePoint" />
+            <mxPoint x="610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-31" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-23" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="AXA8a64m7pf33DG3e36n-20" value="">
+          <mxGeometry relative="1" width="100" x="0.3008" as="geometry">
+            <Array as="points" />
+            <mxPoint x="614" y="288" as="sourcePoint" />
+            <mxPoint x="590" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-32" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-22" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="AXA8a64m7pf33DG3e36n-19" value="">
+          <mxGeometry relative="1" width="100" x="0.3008" as="geometry">
+            <Array as="points" />
+            <mxPoint x="224" y="318" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXA8a64m7pf33DG3e36n-33" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-19" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="AXA8a64m7pf33DG3e36n-26" value="">
+          <mxGeometry relative="1" width="100" x="0.3102" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="128" />
+            </Array>
+            <mxPoint x="280" y="158" as="sourcePoint" />
+            <mxPoint x="310" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
