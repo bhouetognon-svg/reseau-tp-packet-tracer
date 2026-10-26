@@ -23,7 +23,7 @@
           <mxGeometry height="50" width="101" x="200" y="440" as="geometry" />
         </mxCell>
         <mxCell id="AXA8a64m7pf33DG3e36n-23" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="50" width="101" x="561.5" y="430" as="geometry" />
+          <mxGeometry height="50" width="101" x="567" y="432.5" as="geometry" />
         </mxCell>
         <mxCell id="AXA8a64m7pf33DG3e36n-27" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-17" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.198;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.98;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="AXA8a64m7pf33DG3e36n-22" value="">
           <mxGeometry relative="1" width="100" x="0.2119" as="geometry">
@@ -69,13 +69,6 @@
             <mxPoint x="378" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPjWPtnPd6Xxo9MjgkuQ-1" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-19" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="AXA8a64m7pf33DG3e36n-20" value="">
-          <mxGeometry relative="1" width="100" x="0.2755" as="geometry">
-            <Array as="points" />
-            <mxPoint x="360" y="434" as="sourcePoint" />
-            <mxPoint x="411" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-1" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-22" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.04;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.871;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="AXA8a64m7pf33DG3e36n-23" value="">
           <mxGeometry relative="1" width="100" x="0.2777" as="geometry">
             <Array as="points" />
@@ -84,22 +77,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; text-align: start;&quot;&gt;WAN - réseau 10.0.0.0/30 - routage RIP v2&lt;/p&gt;" vertex="1">
-          <mxGeometry height="20" width="257" x="300" y="297" as="geometry" />
+          <mxGeometry height="20" width="257" x="303" y="485" as="geometry" />
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-4" parent="1" style="whiteSpace=wrap;html=1;" value="Liaison WAN vers FAI" vertex="1">
           <mxGeometry height="20" width="210" x="91" y="210" as="geometry" />
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-5" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; text-align: start;&quot;&gt;LAN 2 VLAN 50 - 192.168.50.0/24&lt;/p&gt;" vertex="1">
-          <mxGeometry height="20" width="187" x="630" y="482.5" as="geometry" />
+          <mxGeometry height="20" width="187" x="630" y="495" as="geometry" />
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; text-align: start;&quot;&gt;LAN 1 - VLAN 30 - 192.168.30.0/24&lt;/p&gt;" vertex="1">
-          <mxGeometry height="20" width="200" x="10" y="502.5" as="geometry" />
+          <mxGeometry height="20" width="200" y="505" as="geometry" />
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-8" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="" vertex="1">
           <mxGeometry height="80" width="151.5" x="368.5" y="120" as="geometry" />
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-9" parent="1" style="whiteSpace=wrap;html=1;" value="Internet" vertex="1">
-          <mxGeometry height="20" width="101" x="390" y="200" as="geometry" />
+          <mxGeometry height="20" width="101" x="529" y="150" as="geometry" />
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-10" edge="1" parent="1" source="BKADH8I-KoknuF3D7wKU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.356;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="BKADH8I-KoknuF3D7wKU-9">
           <mxGeometry relative="1" as="geometry" />
@@ -124,6 +117,13 @@
         </mxCell>
         <mxCell id="BKADH8I-KoknuF3D7wKU-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC002" vertex="1">
           <mxGeometry height="20" width="50" x="578.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="BKADH8I-KoknuF3D7wKU-20" edge="1" parent="1" source="AXA8a64m7pf33DG3e36n-20" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;width=3;exitX=0.596;exitY=0.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.8;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" target="BKADH8I-KoknuF3D7wKU-8" value="">
+          <mxGeometry relative="1" width="100" x="-0.348" as="geometry">
+            <Array as="points" />
+            <mxPoint x="740" y="290" as="sourcePoint" />
+            <mxPoint x="708" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
